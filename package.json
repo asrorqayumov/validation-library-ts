@@ -1,5 +1,5 @@
 {
-  "name": "tsvalidationlib",
+  "name": "np",
   "version": "1.0.0",
   "description": "this packace build for validating ",
   "main": "./dist/index.js",
@@ -9,8 +9,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup",
-    "test": "jest"
+    "build": "tsup"
   },
   "author": "Asror Qayumov",
   "license": "ISC",
