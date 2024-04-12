@@ -1,6 +1,6 @@
 {
   "name": "tsvalidationlib",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "this packace build for validating ",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
