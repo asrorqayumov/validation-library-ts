@@ -99,6 +99,7 @@ export function isValidEmail(
 
   return { isSuccessful: true, message: "Validation ended successfully" };
 }
+
 export function isValidInput(
   inputValue: string,
   inputObj: InputBase
