@@ -5,6 +5,7 @@ type InputPassword = {
   mustBeUppercase?: boolean;
   mustBeNumber?: boolean;
 };
+
 type InputEmail = {
   mustBeLowercase: boolean;
   mustBeUppercase: boolean;

@@ -1,5 +1,5 @@
 {
-  "name": "np",
+  "name": "ts-valdation",
   "version": "1.0.0",
   "description": "this packace build for validating ",
   "main": "./dist/index.js",
